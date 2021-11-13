@@ -4,7 +4,6 @@
 1saac
 1saac@LOGOS:~$ 1saac more
 Hi, I'm 1saac
-* Law background
 * Book lover, chess player
 * Develops something
 ```
