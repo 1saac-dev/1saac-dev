@@ -8,10 +8,13 @@ Hi, I'm 1saac
 * Develops something
 ```
 
-### InfoSec interests  :raccoon:
+### Skills  :raccoon:
 ```console
-1saac@LOGOS:~$ cat infosec_interests
-Python, PHP, Linux, GCP
+1saac@LOGOS:~$ cat languages
+Python, PHP
+
+1saac@LOGOS:~$ cat tools
+Linux, GCP
 ```
 
 ### Currently working on :elephant:
