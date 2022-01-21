@@ -14,7 +14,7 @@ Hi, I'm 1saac
 Python, PHP
 
 1saac@LOGOS:~$ cat tools
-Linux, GCP , DigitalOcean, 
+HTML, CSS, Linux, GCP, DigitalOcean  
 ```
 
 ### Currently working on :computer:
