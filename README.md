@@ -1,4 +1,4 @@
-# 1saac
+# 1saac :raccoon:
 ```console
 1saac@LOGOS:~$ whoami
 1saac
@@ -8,16 +8,16 @@ Hi, I'm 1saac
 * Develops something
 ```
 
-### Skills  :raccoon:
+### Skills  :elephant:
 ```console
 1saac@LOGOS:~$ cat languages
 Python, PHP
 
 1saac@LOGOS:~$ cat tools
-Linux, GCP
+Linux, GCP , DigitalOcean, 
 ```
 
-### Currently working on :elephant:
+### Currently working on :computer:
 ```console
 1saac@LOGOS~$ cat active_pojects
 * [game](https://github.com/1saac-dev/game) 
