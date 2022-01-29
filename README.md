@@ -6,6 +6,7 @@
 Hi, I'm 1saac
 * Book lover, chess player
 * Develops something
+* Wants to be a DevOps
 ```
 
 ### Skills  :elephant:
@@ -14,7 +15,7 @@ Hi, I'm 1saac
 Python, PHP
 
 1saac@LOGOS:~$ cat tools
-HTML, CSS, Linux, GCP, DigitalOcean  
+Linux, AWS, GCP, DigitalOcean [more coming]   
 ```
 
 ### Currently working on :computer:
